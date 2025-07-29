@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+.vscode/
+data/all_cards_export.csv
+.DS_Store
+.idea/
+*.log
+*.sqlite3
