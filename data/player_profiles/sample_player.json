@@ -1,0 +1,14 @@
+{
+  "name": "Sample Player",
+  "decks_used": ["Ragingbolt_v1", "Grims_ivanv1", "gardevoir_V1"],
+  "winrates": {"Ragingbolt_v1": 0.55, "Grims_ivanv1": 0.48, "gardevoir_V1": 0.62},
+  "matchups": {"Charizard ex": 0.6, "Lost Box": 0.4, "Gardevoir ex": 0.5},
+  "common_errors": ["Poor sequencing", "Resource mismanagement", "Missed KO"],
+  "phase_performance": {"start": "good", "mid": "average", "end": "needs work"},
+  "playstyle": {"Ragingbolt_v1": "aggro", "Grims_ivanv1": "toolbox", "gardevoir_V1": "control"},
+  "recommendations": [
+    "Try using Iono earlier for better disruption.",
+    "Replace Ultra Ball with Battle VIP Pass for early-game consistency.",
+    "Against Lost Box, prioritize KOing Comfey."
+  ]
+}
